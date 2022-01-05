@@ -1,2 +1,2 @@
 # Mi-primer-proyecto
-Repositorio: Lugar o espacio donde de suardan cosas
+Repositorio: Lugar o espacio donde se guardan cosas
